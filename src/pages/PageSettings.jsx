@@ -1,10 +1,10 @@
-export function PageHome() {
+export function PageSettings() {
     return (
         <>
             <section className="container">
                 <div className="row">
                     <div className="col-12">
-                        HOME PAGE CONTENT
+                        SETTINGS PAGE CONTENT
                     </div>
                 </div>
             </section>
